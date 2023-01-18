@@ -6,6 +6,6 @@ access token を再取得する
 ## 必要ファイル
 
 ```
-acces_token.json --- access tokenが入っているjsonファイル
+acces_token.json --- access tokenが入っているjsonファイル(jsonフォルダ内に作成)
 .env --- client_id, client_secret
 ```
